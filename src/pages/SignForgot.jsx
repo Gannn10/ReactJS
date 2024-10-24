@@ -1,5 +1,4 @@
 import React from 'react'
-import AuthLayout from '../components/Layout/AuthLayout'
 import FormForgot from '../components/Fragments/FormForgot'
 import AuthLayout1 from '../components/Layout/AuthLayout1'
 
