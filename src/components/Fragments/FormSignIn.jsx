@@ -1,4 +1,4 @@
-import Button from "../Element/Button";
+import Button from "../Element/Button/Index";
 import CheckBox from "../Element/CheckBox/Index";
 import LabeledInput from "../Element/LabeledInput";
 

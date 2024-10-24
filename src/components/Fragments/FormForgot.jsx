@@ -2,6 +2,7 @@ import Button1 from "../Element/Button/Index1";
 import LabeledInput from "../Element/LabeledInput";
 
 
+
 const FormForgot = () => {
   return (
                 <div className="mt-16">

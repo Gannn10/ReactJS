@@ -25,11 +25,7 @@ const AuthLayout1 = (props) => {
          
         </div>
         {/* teks end */}
-        {/* sign in with google start */}
-       
-        {/* sign in with google end */}
         {/* link start */}
-
         <div className="flex justify-center">
   {type == "sign up" ? (
     <>
